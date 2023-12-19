@@ -21,6 +21,7 @@
 Создаем узел:
 
 Результат работы программы с 4мя философами:
+
 2023-12-17T16:40:53.352241500 Philosopher 3 is ready to eat
 
 2023-12-17T16:40:53.352241500 Philosopher 2 is ready to eat
@@ -150,6 +151,7 @@
 Результат работы с 3мя клиентами (у клиентов в качестве имени случайные номера для простоты запуска):
 
 Клиент 1:
+
 ![image](https://github.com/VadimKolodin/bigData/assets/105828231/9365a603-e8ba-4b5e-af93-0316c4580eed)
 ![image](https://github.com/VadimKolodin/bigData/assets/105828231/898db201-cf6c-49c7-b22f-be9716fb590f)
 
